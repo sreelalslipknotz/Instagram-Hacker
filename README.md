@@ -1,11 +1,11 @@
-# Instagram-Hacker
+M  # Instagram-Hacker
 This is a script for Instagram bruteforce attacks. WARNING THIS IS A REAL TOOL!
 
 # Usage
 
-`python instagram.py username103 pass.lst`
+`python instagram.py username_vishnu_m__s-103 pass.lst`
 
-# Requirements
+
 
 [mechanize](https://pypi.python.org/pypi/mechanize/) install with: `pip install mechanize`
 
